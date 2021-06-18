@@ -1,1 +1,2 @@
-module.exports = require('./dist/commonjs/index.js').default;
+module.exports = require('./src/index.js').default;
+
